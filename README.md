@@ -1,6 +1,6 @@
 # oop-totoro
 Object-oriented results published<br>
-https://raw.githubusercontent.com/Lin310351021/oop-totoro/main/Example.gif
+![示範 GIF](https://raw.githubusercontent.com/Lin310351021/oop-totoro/main/Example.gif)
 <br>
 (執行Debug中執行Debug資料夾中Project.exe即可遊玩)<br><br>
 專題內容:

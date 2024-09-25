@@ -1,5 +1,7 @@
 # oop-totoro
 Object-oriented results published<br>
+https://raw.githubusercontent.com/Lin310351021/oop-totoro/main/Example.gif
+<br>
 (執行Debug中執行Debug資料夾中Project.exe即可遊玩)<br><br>
 專題內容:
 &nbsp;&nbsp;&nbsp;&nbsp;是一款解謎取向的闖關遊戲，透過橫向卷軸的方式，操控角色，並藉由身上的道具，與場景互動，最終幫助我們的主角Totoro突破重重難關，回到草壁五月(小月)身邊。  

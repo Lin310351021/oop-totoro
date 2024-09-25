@@ -1,0 +1,68 @@
+﻿  background.cpp
+  floor.cpp
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\floor.cpp(512,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Image.cpp
+  Item.cpp
+  main.cpp
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(126,38): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(126,38): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(126,51): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(126,51): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(127,48): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(127,48): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(127,61): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(127,61): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(130,40): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(130,40): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(147,29): warning C4244: 'initializing': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(148,28): warning C4244: 'initializing': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(152,33): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(373,6): warning C4101: 'n1': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,8): warning C4101: 'x1': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,20): warning C4101: 'x4': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,16): warning C4101: 'x3': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,24): warning C4101: 'x5': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,28): warning C4101: 'x6': unreferenced local variable
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\main.cpp(1526,12): warning C4101: 'x2': unreferenced local variable
+  Mixer.cpp
+  Playerrole.cpp
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,26): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,33): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,33): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,43): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,43): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(88,53): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,26): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,33): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,40): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,40): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,50): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(89,50): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(92,30): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(92,39): warning C4838: conversion from 'double' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(92,39): warning C4244: 'initializing': conversion from 'double' to 'Sint16', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(93,30): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(93,39): warning C4838: conversion from 'int' to 'Sint16' requires a narrowing conversion
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(184,23): warning C4244: 'initializing': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(185,22): warning C4244: 'initializing': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(189,27): warning C4244: '=': conversion from 'Uint64' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(279,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(287,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(299,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(312,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(320,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(485,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(497,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(625,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(707,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Playerrole.cpp(732,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  RenderWindow.cpp
+  Role.cpp
+  Score.cpp
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Score.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\Chihuahua\Score.cpp(12,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Star.cpp
+  system.cpp
+  Text.cpp
+  Generating Code...
+  Chihuahua.vcxproj -> C:\Users\ASUS\Downloads\totoro_final\totoro_final\Chihuahua\x64\Debug\Chihuahua.exe
